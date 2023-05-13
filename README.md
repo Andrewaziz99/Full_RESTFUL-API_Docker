@@ -19,3 +19,9 @@ This is the full RESTFUL API with Docker frontend. This is a simple frontend app
 11. You can docker-ize this code by `docker-compose up`
 12. Then run the image `docker run --name frontend <image_name>`
 13. To get the container ip `docker inspect <container_name>`
+
+## Usage
+
+1. You can create a person by entering a name and age and clicking the create button
+2. You can update a person by entering name, age and email and clicking the update button
+3. You can delete a person by entering an id and clicking the delete button
