@@ -16,3 +16,6 @@ This is the full RESTFUL API with Docker frontend. This is a simple frontend app
 8. You can now use the API on CONTAINER_IP:9000
 9. You can find the CONTAINER_IP by running `docker inspect CONTAINER_ID`
 10. Finally, run the index.html file in your browser
+11. You can docker-ize this code by `docker-compose up`
+12. Then run the image `docker run --name frontend <image_name>`
+13. To get the container ip `docker inspect <container_name>`
