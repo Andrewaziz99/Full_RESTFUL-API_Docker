@@ -22,6 +22,6 @@ This is the full RESTFUL API with Docker frontend. This is a simple frontend app
 
 ## Usage
 
-1. You can create a person by entering a name and age and clicking the create button
+1. You can create a person by entering a name and age, gender and email and clicking the create button
 2. You can update a person by entering name, age and email and clicking the update button
-3. You can delete a person by entering an id and clicking the delete button
+3. You can delete a person by clicking the delete button
