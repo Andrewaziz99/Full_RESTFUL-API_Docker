@@ -10,7 +10,7 @@ This is the full RESTFUL API with Docker frontend. This is a simple frontend app
 2. Go to the scripts.js file and change the url to your own API url
 3. Run the index.html file in your browser
 4. You can use my API or you can create your own API.
-5. You can find my API here: <a href="https://hub.docker.com/r/andrewaziz99/backend-api">backend-api</a>
+5. You can find my API here: <a href="https://hub.docker.com/r/andrewaziz99/backend-api" target="_blank">backend-api</a>
 6. Pull this image from Docker Hub: `docker pull andrewaziz99/backend-api`
 7. Run the image: `docker run -p 9000:9000 andrewaziz99/backend-api`
 8. You can now use the API on CONTAINER_IP:9000
